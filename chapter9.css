@@ -60,7 +60,7 @@ footer {
   background-color: #aaaaaa;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   main {
     width: 100%;
     display: block;
@@ -68,8 +68,8 @@ footer {
   }
   .box {
     width: 90%;
-    margin-bottom: 20px;
-    margin-left: 20px;
+    margin-bottom: 20%;
+    margin-left: 5%;
   }
   .box:last-child {
     margin-bottom: 0;

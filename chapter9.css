@@ -68,7 +68,7 @@ footer {
   }
   .box {
     width: 90%;
-    margin-bottom: 20%;
+    margin-bottom: 20px;
     margin-left: 5%;
   }
   .box:last-child {
